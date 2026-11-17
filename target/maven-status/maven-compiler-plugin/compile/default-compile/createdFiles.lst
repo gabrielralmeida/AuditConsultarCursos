@@ -1,0 +1,8 @@
+br\com\fiap\auditcursos\ConsultaCursosResponse$CursoItem.class
+br\com\fiap\auditcursos\CursoStore.class
+br\com\fiap\auditcursos\ConsultaCursosResponse.class
+br\com\fiap\auditcursos\CursoRepository.class
+br\com\fiap\auditcursos\Curso.class
+br\com\fiap\auditcursos\CursoService.class
+br\com\fiap\auditcursos\CursoPanacheStore.class
+br\com\fiap\auditcursos\AuditConsultarCursosLambda.class
